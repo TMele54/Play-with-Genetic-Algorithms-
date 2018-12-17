@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7109e30-32f3-490d-a8b3-358226210f1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/genetic_algorithm$run.coverage" NAME="run Coverage Results" MODIFIED="1544980983661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/genetic_algorithm$boxer.coverage" NAME="boxer Coverage Results" MODIFIED="1544980992661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-862861893">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="py" value="15296" />
+          <entry key="txt" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="15296" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="png" value="1" />
+          <entry key="py" value="21" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CRISPR</find>
+      <find>matingPool</find>
+      <find>breedPopulation</find>
+      <find>mutatePopulation</find>
+      <find>next gener</find>
+      <find>/2</find>
+      <find>b[&quot;</find>
+      <find>print</find>
+      <find>plotRectangl</find>
+      <find>%</find>
+      <find>intersectionArea</find>
+      <find>ctionPercentag</find>
+      <find>intersectionPercentage</find>
+      <find>rankAreas</find>
+      <find>artificialSelection</find>
+      <find>plot</find>
+      <find>creatures</find>
+      <find>creature</find>
+      <find>rand.</find>
+      <find>open</find>
+      <find>rankDistances</find>
+      <find>intersectionPercentag</find>
+      <find>ani</find>
+      <find>set</find>
+      <find>player</find>
+      <find>.png</find>
+      <find>path</find>
+      <find>route</find>
+      <find>reateRoute</find>
+      <find>exampl</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>b</replace>
+      <replace>coorSpace</replace>
+      <replace>genRanked</replace>
+      <replace>Rect</replace>
+      <replace>[]</replace>
+      <replace>eG[</replace>
+      <replace>b.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jump/src/ArtificialPlayer.py" />
+        <option value="$PROJECT_DIR$/jump/src/Main.py" />
+        <option value="$PROJECT_DIR$/tsp.py" />
+        <option value="$PROJECT_DIR$/example.txt" />
+        <option value="$PROJECT_DIR$/chart.py" />
+        <option value="$PROJECT_DIR$/xtr/example.txt" />
+        <option value="$PROJECT_DIR$/boxer.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="698" />
+    <option name="y" value="-12" />
+    <option name="width" value="1522" />
+    <option name="height" value="1932" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="genetic_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="genetic_algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="genetic_algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="genetic_algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="geometric" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\logistics" />
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\geometric" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\logistics" />
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\geometric" />
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\xtr" />
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\jump\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.boxer">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="genetic_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boxer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="genetic_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boxer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="genetic_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\logistics\tsp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.boxer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.boxer" />
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7109e30-32f3-490d-a8b3-358226210f1d" name="Default Changelist" comment="" />
+      <created>1543910054584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543910054584</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3298969" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32541567" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49828178" weight="0.36342043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7587629" visible="true" weight="0.6686461" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.24123712" side_tool="true" weight="0.4216152" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.63573885" weight="0.32897863" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" />
+      <window_info anchor="right" id="SciView" order="6" sideWeight="0.4989733" weight="0.3298969" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="8" sideWeight="0.5010267" side_tool="true" weight="0.3298969" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3298969" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32541567" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49828178" weight="0.36342043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.7587629" weight="0.6686461" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.24123712" side_tool="true" weight="0.4216152" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.63573885" weight="0.32897863" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" />
+      <window_info anchor="right" id="SciView" order="6" sideWeight="0.4989733" weight="0.3298969" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="8" sideWeight="0.5010267" side_tool="true" weight="0.3298969" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jump/img/player.png" />
+    <entry file="file://$PROJECT_DIR$/jump/README.md" />
+    <entry file="file://$PROJECT_DIR$/jump/src/ArtificialPlayer.py" />
+    <entry file="file://$PROJECT_DIR$/jump/src/Brain.py" />
+    <entry file="file://$PROJECT_DIR$/jump/src/Game.py" />
+    <entry file="file://$PROJECT_DIR$/jump/src/GameDisplay.py" />
+    <entry file="file://$PROJECT_DIR$/jump/src/Main.py" />
+    <entry file="file://$PROJECT_DIR$/xtr/example.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xtr/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistics/tsp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#96#122#0" />
+            <element signature="e#168#495#0" />
+            <element signature="e#201#230#0" />
+            <element signature="e#270#411#0" />
+            <element signature="e#445#495#0" />
+            <element signature="e#547#1293#0" />
+            <element signature="e#582#653#0" />
+            <element signature="e#692#1147#0" />
+            <element signature="e#727#1118#0" />
+            <element signature="e#808#1077#0" />
+            <element signature="e#1185#1293#0" />
+            <element signature="e#1328#1452#0" />
+            <element signature="e#1500#1617#0" />
+            <element signature="e#1651#1885#0" />
+            <element signature="e#1935#2474#0" />
+            <element signature="e#2261#2445#0" />
+            <element signature="e#2343#2445#0" />
+            <element signature="e#2383#2445#0" />
+            <element signature="e#2523#2678#0" />
+            <element signature="e#2587#2656#0" />
+            <element signature="e#2713#3105#0" />
+            <element signature="e#3155#3477#0" />
+            <element signature="e#3377#3456#0" />
+            <element signature="e#3521#3852#0" />
+            <element signature="e#3568#3829#0" />
+            <element signature="e#3616#3829#0" />
+            <element signature="e#3906#4082#0" />
+            <element signature="e#3972#4060#0" />
+            <element signature="e#4146#4586#0" />
+            <element signature="e#4673#5043#0" />
+            <element signature="e#5135#5487#0" />
+            <element signature="e#5291#5392#0" />
+            <element signature="e#5556#5754#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boxer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="385" column="22" selection-start-line="385" selection-start-column="22" selection-end-line="385" selection-end-column="22" />
+          <folding>
+            <element signature="e#363#394#0" expanded="true" />
+            <element signature="e#978#1378#1" />
+            <element signature="e#2257#2894#0" />
+            <element signature="e#2311#2763#0" />
+            <element signature="e#2511#2635#0" />
+            <element signature="e#2675#2711#0" />
+            <element signature="e#2769#2797#0" />
+            <element signature="e#2982#3039#0" />
+            <element signature="e#3186#3997#0" />
+            <element signature="e#3657#3693#0" />
+            <element signature="e#3824#3955#0" />
+            <element signature="e#4095#4807#0" />
+            <element signature="e#4612#4778#0" />
+            <element signature="e#4874#5189#0" />
+            <element signature="e#5257#5474#0" />
+            <element signature="e#5321#5415#0" />
+            <element signature="e#5535#6021#0" />
+            <element signature="e#5614#5725#0" />
+            <element signature="e#6125#6779#0" />
+            <element signature="e#6568#6750#0" />
+            <element signature="e#6648#6750#0" />
+            <element signature="e#6688#6750#0" />
+            <element signature="e#6875#7060#0" />
+            <element signature="e#6980#7043#0" />
+            <element signature="e#7182#7514#0" />
+            <element signature="e#7360#7392#0" />
+            <element signature="e#7425#7457#0" />
+            <element signature="e#7585#7912#0" />
+            <element signature="e#7993#8440#0" />
+            <element signature="e#8334#8419#0" />
+            <element signature="e#8541#9032#0" />
+            <element signature="e#8583#9010#0" />
+            <element signature="e#8851#8887#0" />
+            <element signature="e#8928#8964#0" />
+            <element signature="e#9105#9306#0" />
+            <element signature="e#9176#9283#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geometric/rectangles.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistics/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
