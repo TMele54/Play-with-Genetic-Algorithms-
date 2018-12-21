@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7109e30-32f3-490d-a8b3-358226210f1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/amorphous/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amorphous/ameba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amorphous/manifold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amorphous/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custom_libs/Shapely-1.6.4.post1-cp27-cp27m-win_amd64.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/ga_functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geometric/circles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motion/swarm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geometric/rectangles.py" beforeDir="false" afterPath="$PROJECT_DIR$/geometric/rectangles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xtr/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtr/monitor.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,38 +27,60 @@
     <SUITE FILE_PATH="coverage/genetic_algorithm$run.coverage" NAME="run Coverage Results" MODIFIED="1544980983661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/genetic_algorithm$boxer.coverage" NAME="boxer Coverage Results" MODIFIED="1544980992661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-862861893">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="13" />
-          <entry key="py" value="15296" />
+          <entry key="dummy" value="39" />
+          <entry key="ga_functions" value="2" />
+          <entry key="py" value="23614" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="15296" />
+          <entry key="PLAIN_TEXT" value="52" />
+          <entry key="Python" value="23616" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="ga_functions" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="1" />
-          <entry key="py" value="21" />
+          <entry key="py" value="35" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
@@ -54,7 +89,7 @@
           <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="21" />
+          <entry key="Python" value="36" />
         </counts>
       </usages-collector>
     </session>
@@ -62,10 +97,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/run.py">
+        <entry file="file://$PROJECT_DIR$/amorphous/manifold.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="956">
+              <caret line="442" column="19" selection-start-line="442" selection-start-column="19" selection-end-line="442" selection-end-column="19" />
+              <folding>
+                <element signature="e#885#5167#0" />
+                <element signature="e#910#4782#0" />
+                <element signature="e#1117#1339#0" />
+                <element signature="e#1377#2381#0" />
+                <element signature="e#1443#1928#0" />
+                <element signature="e#1996#2381#0" />
+                <element signature="e#2030#2141#0" />
+                <element signature="e#2193#2320#0" />
+                <element signature="e#2431#2727#0" />
+                <element signature="e#2506#2628#0" />
+                <element signature="e#2765#2875#0" />
+                <element signature="e#2938#3907#0" />
+                <element signature="e#2938#3242#1" />
+                <element signature="e#3989#4431#0" />
+                <element signature="e#4647#4662#0" />
+                <element signature="e#4818#4910#0" />
+                <element signature="e#4954#5071#0" />
+                <element signature="e#5219#5338#0" />
+                <element signature="e#5398#5511#0" />
+                <element signature="e#5568#6203#0" />
+                <element signature="e#5625#6180#0" />
+                <element signature="e#5845#5887#0" />
+                <element signature="e#5927#5969#0" />
+                <element signature="e#6007#6048#0" />
+                <element signature="e#6086#6127#0" />
+                <element signature="e#6300#6480#0" />
+                <element signature="e#6582#6629#0" />
+                <element signature="e#6736#7125#0" />
+                <element signature="e#7192#7319#0" />
+                <element signature="e#7393#7698#0" />
+                <element signature="e#7556#7642#0" />
+                <element signature="e#7801#8438#0" />
+                <element signature="e#8223#8409#0" />
+                <element signature="e#8306#8409#0" />
+                <element signature="e#8347#8409#0" />
+                <element signature="e#8534#8722#0" />
+                <element signature="e#8642#8705#0" />
+                <element signature="e#8810#9020#0" />
+                <element signature="e#8840#8987#0" />
+                <element signature="e#9096#9699#0" />
+                <element signature="e#9278#9316#0" />
+                <element signature="e#9348#9386#0" />
+                <element signature="e#9416#9453#0" />
+                <element signature="e#9483#9520#0" />
+                <element signature="e#9620#9639#0" />
+                <element signature="e#9775#10173#0" />
+                <element signature="e#10258#10719#0" />
+                <element signature="e#10600#10698#0" />
+                <element signature="e#10829#10949#0" />
+                <element signature="e#11029#11238#0" />
+                <element signature="e#11101#11215#0" />
+                <element signature="e#11326#12336#0" />
+                <element signature="e#11601#11804#0" />
+                <element signature="e#11868#12161#0" />
+                <element signature="e#12022#12078#0" />
+                <element signature="e#12105#12161#0" />
+                <element signature="e#12392#12658#0" />
+                <element signature="e#12445#12550#0" />
+                <element signature="e#12765#13446#0" />
+                <element signature="e#13585#14561#0" />
+                <element signature="e#13850#14460#0" />
+                <element signature="e#14342#14385#0" />
+                <marker date="1545407937652" expanded="false" signature="8803:9022" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,36 +181,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>CRISPR</find>
-      <find>matingPool</find>
-      <find>breedPopulation</find>
-      <find>mutatePopulation</find>
-      <find>next gener</find>
-      <find>/2</find>
-      <find>b[&quot;</find>
+      <find>circCrea</find>
+      <find>circcre</find>
+      <find>scale</find>
+      <find>initialPopulati</find>
+      <find>operator</find>
+      <find>save_space</find>
+      <find>get</find>
+      <find>tBB</find>
+      <find>rankPropertie</find>
+      <find>space</find>
+      <find>generation</find>
+      <find>oad_manifold</find>
+      <find>utatePopulation</find>
+      <find>utate(children[indiv</find>
+      <find>ameba</find>
+      <find>ake_circles</find>
+      <find>in_space</find>
+      <find>rankProperties</find>
+      <find>mutat</find>
+      <find>&quot;r&quot;</find>
+      <find>&quot;&lt;&quot;</find>
+      <find>mutate(</find>
       <find>print</find>
-      <find>plotRectangl</find>
-      <find>%</find>
-      <find>intersectionArea</find>
-      <find>ctionPercentag</find>
-      <find>intersectionPercentage</find>
-      <find>rankAreas</find>
-      <find>artificialSelection</find>
-      <find>plot</find>
-      <find>creatures</find>
-      <find>creature</find>
-      <find>rand.</find>
-      <find>open</find>
-      <find>rankDistances</find>
-      <find>intersectionPercentag</find>
-      <find>ani</find>
-      <find>set</find>
-      <find>player</find>
-      <find>.png</find>
-      <find>path</find>
-      <find>route</find>
-      <find>reateRoute</find>
-      <find>exampl</find>
+      <find>plot_circles_manifold</find>
+      <find>1</find>
+      <find>properties</find>
+      <find>rankPropert</find>
+      <find>breed</find>
+      <find>make_circles</find>
+      <find>of_inte</find>
     </findStrings>
     <replaceStrings>
       <replace>b</replace>
@@ -120,6 +220,13 @@
       <replace>[]</replace>
       <replace>eG[</replace>
       <replace>b.</replace>
+      <replace>circ</replace>
+      <replace>circl</replace>
+      <replace>plotBestCircles</replace>
+      <replace>centerDistanceMethod</replace>
+      <replace>get_new_manifold</replace>
+      <replace>manifold</replace>
+      <replace>on_manifold</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -135,7 +242,18 @@
         <option value="$PROJECT_DIR$/chart.py" />
         <option value="$PROJECT_DIR$/xtr/example.txt" />
         <option value="$PROJECT_DIR$/boxer.py" />
+        <option value="$PROJECT_DIR$/geometric/rectangles.py" />
+        <option value="$PROJECT_DIR$/amorphous/circles.py" />
+        <option value="$PROJECT_DIR$/amorphous/ameba.py" />
+        <option value="$PROJECT_DIR$/amorphous/demo.py" />
+        <option value="$PROJECT_DIR$/amorphous/gaps.py" />
+        <option value="$PROJECT_DIR$/functions/ga_functions" />
+        <option value="$PROJECT_DIR$/amorphous/target.py" />
+        <option value="$PROJECT_DIR$/geometric/circles.py" />
+        <option value="$PROJECT_DIR$/motion/swarm.py" />
         <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/amorphous/test.py" />
+        <option value="$PROJECT_DIR$/amorphous/manifold.py" />
       </list>
     </option>
   </component>
@@ -146,17 +264,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="698" />
-    <option name="y" value="-12" />
+    <option name="x" value="-10" />
     <option name="width" value="1522" />
     <option name="height" value="1932" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,27 +287,35 @@
             <path>
               <item name="genetic_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="genetic_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="geometric" type="462c0819:PsiDirectoryNode" />
+              <item name="motion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/tonym/OneDrive/AAM_Portfolio/genetic_algorithm/geometric/rectangles.py" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\custom_libs" />
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\amorphous" />
       <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\logistics" />
       <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\geometric" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\custom_libs" />
       <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\logistics" />
       <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\geometric" />
       <recent name="C:\Users\tonym\OneDrive\AAM_Portfolio\genetic_algorithm\xtr" />
@@ -206,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.boxer">
+  <component name="RunManager" selected="Python.run (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="genetic_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,6 +379,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="genetic_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="genetic_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,9 +426,11 @@
     <list>
       <item itemvalue="Python.run" />
       <item itemvalue="Python.boxer" />
+      <item itemvalue="Python.run (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run (1)" />
         <item itemvalue="Python.boxer" />
         <item itemvalue="Python.run" />
       </list>
@@ -299,8 +451,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3298969" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16013746" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -311,35 +464,35 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7587629" visible="true" weight="0.6686461" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.24123712" side_tool="true" weight="0.4216152" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7580756" visible="true" weight="0.36579573" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2419244" side_tool="true" weight="0.739905" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.63573885" weight="0.32897863" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.21993127" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info anchor="right" id="SciView" order="6" sideWeight="0.4989733" weight="0.3298969" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="8" sideWeight="0.5010267" side_tool="true" weight="0.3298969" />
+      <window_info anchor="right" id="SciView" order="6" sideWeight="0.4989733" weight="0.43092784" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3298969" />
+      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="8" sideWeight="0.5010267" side_tool="true" weight="0.31958762" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3298969" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16426116" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32541567" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32541567" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49828178" weight="0.36342043" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.7587629" weight="0.6686461" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.24123712" side_tool="true" weight="0.4216152" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7580756" visible="true" weight="0.47624704" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2419244" side_tool="true" weight="0.739905" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.63573885" weight="0.32897863" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -349,9 +502,9 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="Remote Host" order="5" />
-      <window_info anchor="right" id="SciView" order="6" sideWeight="0.4989733" weight="0.3298969" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="8" sideWeight="0.5010267" side_tool="true" weight="0.3298969" />
+      <window_info anchor="right" id="SciView" order="6" sideWeight="0.4989733" weight="0.14158076" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3298969" />
+      <window_info anchor="right" x="0" y="0" width="328" height="773" id="Documentation" order="8" sideWeight="0.5010267" side_tool="true" weight="0.31958762" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,112 +538,138 @@
     <entry file="file://$PROJECT_DIR$/xtr/example.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/xtr/chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#1#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/xtr/monitor.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/logistics/tsp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="e#96#122#0" />
-            <element signature="e#168#495#0" />
-            <element signature="e#201#230#0" />
-            <element signature="e#270#411#0" />
-            <element signature="e#445#495#0" />
-            <element signature="e#547#1293#0" />
-            <element signature="e#582#653#0" />
-            <element signature="e#692#1147#0" />
-            <element signature="e#727#1118#0" />
-            <element signature="e#808#1077#0" />
-            <element signature="e#1185#1293#0" />
-            <element signature="e#1328#1452#0" />
-            <element signature="e#1500#1617#0" />
-            <element signature="e#1651#1885#0" />
-            <element signature="e#1935#2474#0" />
-            <element signature="e#2261#2445#0" />
-            <element signature="e#2343#2445#0" />
-            <element signature="e#2383#2445#0" />
-            <element signature="e#2523#2678#0" />
-            <element signature="e#2587#2656#0" />
-            <element signature="e#2713#3105#0" />
-            <element signature="e#3155#3477#0" />
-            <element signature="e#3377#3456#0" />
-            <element signature="e#3521#3852#0" />
-            <element signature="e#3568#3829#0" />
-            <element signature="e#3616#3829#0" />
-            <element signature="e#3906#4082#0" />
-            <element signature="e#3972#4060#0" />
-            <element signature="e#4146#4586#0" />
-            <element signature="e#4673#5043#0" />
-            <element signature="e#5135#5487#0" />
-            <element signature="e#5291#5392#0" />
-            <element signature="e#5556#5754#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boxer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="385" column="22" selection-start-line="385" selection-start-column="22" selection-end-line="385" selection-end-column="22" />
-          <folding>
-            <element signature="e#363#394#0" expanded="true" />
-            <element signature="e#978#1378#1" />
-            <element signature="e#2257#2894#0" />
-            <element signature="e#2311#2763#0" />
-            <element signature="e#2511#2635#0" />
-            <element signature="e#2675#2711#0" />
-            <element signature="e#2769#2797#0" />
-            <element signature="e#2982#3039#0" />
-            <element signature="e#3186#3997#0" />
-            <element signature="e#3657#3693#0" />
-            <element signature="e#3824#3955#0" />
-            <element signature="e#4095#4807#0" />
-            <element signature="e#4612#4778#0" />
-            <element signature="e#4874#5189#0" />
-            <element signature="e#5257#5474#0" />
-            <element signature="e#5321#5415#0" />
-            <element signature="e#5535#6021#0" />
-            <element signature="e#5614#5725#0" />
-            <element signature="e#6125#6779#0" />
-            <element signature="e#6568#6750#0" />
-            <element signature="e#6648#6750#0" />
-            <element signature="e#6688#6750#0" />
-            <element signature="e#6875#7060#0" />
-            <element signature="e#6980#7043#0" />
-            <element signature="e#7182#7514#0" />
-            <element signature="e#7360#7392#0" />
-            <element signature="e#7425#7457#0" />
-            <element signature="e#7585#7912#0" />
-            <element signature="e#7993#8440#0" />
-            <element signature="e#8334#8419#0" />
-            <element signature="e#8541#9032#0" />
-            <element signature="e#8583#9010#0" />
-            <element signature="e#8851#8887#0" />
-            <element signature="e#8928#8964#0" />
-            <element signature="e#9105#9306#0" />
-            <element signature="e#9176#9283#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geometric/rectangles.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/boxer.py" />
     <entry file="file://$PROJECT_DIR$/logistics/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/geometric/rectangles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="143" column="35" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amorphous/ameba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="362" column="30" selection-start-line="362" selection-start-column="30" selection-end-line="362" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/ga_functions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="468" selection-start-line="468" selection-end-line="468" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amorphous/target.py" />
+    <entry file="file://$PROJECT_DIR$/geometric/circles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402">
+          <caret line="222" column="11" selection-start-line="222" selection-start-column="4" selection-end-line="222" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="152">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#390#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amorphous/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motion/swarm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amorphous/manifold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="956">
+          <caret line="442" column="19" selection-start-line="442" selection-start-column="19" selection-end-line="442" selection-end-column="19" />
+          <folding>
+            <element signature="e#885#5167#0" />
+            <element signature="e#910#4782#0" />
+            <element signature="e#1117#1339#0" />
+            <element signature="e#1377#2381#0" />
+            <element signature="e#1443#1928#0" />
+            <element signature="e#1996#2381#0" />
+            <element signature="e#2030#2141#0" />
+            <element signature="e#2193#2320#0" />
+            <element signature="e#2431#2727#0" />
+            <element signature="e#2506#2628#0" />
+            <element signature="e#2765#2875#0" />
+            <element signature="e#2938#3907#0" />
+            <element signature="e#2938#3242#1" />
+            <element signature="e#3989#4431#0" />
+            <element signature="e#4647#4662#0" />
+            <element signature="e#4818#4910#0" />
+            <element signature="e#4954#5071#0" />
+            <element signature="e#5219#5338#0" />
+            <element signature="e#5398#5511#0" />
+            <element signature="e#5568#6203#0" />
+            <element signature="e#5625#6180#0" />
+            <element signature="e#5845#5887#0" />
+            <element signature="e#5927#5969#0" />
+            <element signature="e#6007#6048#0" />
+            <element signature="e#6086#6127#0" />
+            <element signature="e#6300#6480#0" />
+            <element signature="e#6582#6629#0" />
+            <element signature="e#6736#7125#0" />
+            <element signature="e#7192#7319#0" />
+            <element signature="e#7393#7698#0" />
+            <element signature="e#7556#7642#0" />
+            <element signature="e#7801#8438#0" />
+            <element signature="e#8223#8409#0" />
+            <element signature="e#8306#8409#0" />
+            <element signature="e#8347#8409#0" />
+            <element signature="e#8534#8722#0" />
+            <element signature="e#8642#8705#0" />
+            <element signature="e#8810#9020#0" />
+            <element signature="e#8840#8987#0" />
+            <element signature="e#9096#9699#0" />
+            <element signature="e#9278#9316#0" />
+            <element signature="e#9348#9386#0" />
+            <element signature="e#9416#9453#0" />
+            <element signature="e#9483#9520#0" />
+            <element signature="e#9620#9639#0" />
+            <element signature="e#9775#10173#0" />
+            <element signature="e#10258#10719#0" />
+            <element signature="e#10600#10698#0" />
+            <element signature="e#10829#10949#0" />
+            <element signature="e#11029#11238#0" />
+            <element signature="e#11101#11215#0" />
+            <element signature="e#11326#12336#0" />
+            <element signature="e#11601#11804#0" />
+            <element signature="e#11868#12161#0" />
+            <element signature="e#12022#12078#0" />
+            <element signature="e#12105#12161#0" />
+            <element signature="e#12392#12658#0" />
+            <element signature="e#12445#12550#0" />
+            <element signature="e#12765#13446#0" />
+            <element signature="e#13585#14561#0" />
+            <element signature="e#13850#14460#0" />
+            <element signature="e#14342#14385#0" />
+            <marker date="1545407937652" expanded="false" signature="8803:9022" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

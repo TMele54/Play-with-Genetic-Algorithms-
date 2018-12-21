@@ -25,7 +25,7 @@ import math
         
         Total intersections are given a one point boost to position them at the top of rank list
         
-        12/16/18 - need to improve fitness metric..
+        12/16/18 - need to improve fitness metric.. (this was updated early 17th to use distance and not area..)
     
 '''
 
@@ -383,9 +383,9 @@ def geneticAlgorithm(popSize, eliteSize, mutationRate, generations, dX, dY):
         #print bestRectIndex
         creatures.append(bestRect)
         val = intersectionPercentage(bestRect, tBB)
-        with open("../xtr/example.txt", "a") as f:
-            f.write(str(val)+ "," + str(i) + '\n')
-            f.close()
+        #with open("../xtr/example.txt", "a") as f:
+        #    f.write(str(val)+ "," + str(i) + '\n')
+        #    f.close()
 
     print "Total Top Creatures:", len(creatures)
     creatures = set(creatures)
@@ -410,7 +410,7 @@ tBB=dict()
 tBB["X"],tBB["Y"],tBB["H"],tBB["W"],tBB["l"] = 50,650,300,800,10
 
 # size of a population
-popSize,eliteSize,generations,mutationRate = 1000,10,5000,0.01
+popSize,eliteSize,generations,mutationRate = 1000,10,500,0.01
 
 ########################################################################################################################
 ##################################################### Execute ##########################################################
@@ -418,16 +418,16 @@ popSize,eliteSize,generations,mutationRate = 1000,10,5000,0.01
 # execute function..
 # run chart.py after running this, and also first empty example.txt
 geneticAlgorithm(
-
     popSize=popSize,
-                    #
-                    eliteSize=eliteSize,
-                                        #
-                                        mutationRate=mutationRate,
-                                                                #
-                                        generations=generations,
-                                        #
-                                   dX=dX,
-                                   #
-                              dY=dY
-                )
+    eliteSize=eliteSize,
+    mutationRate=mutationRate,
+    generations=generations,
+    dX=dX,
+    dY=dY
+    )
+
+print '''
+All this is doing is trying to create a similar rectangle to the blue rectangle. 
+The interesting part is that this is being accomplished by generating random rectangles 
+and breeding generations of offspring that get better and better at drawing the ideal rectangle.
+At completeion the top rectangles from several generations are plotted against the key rectangle.'''
