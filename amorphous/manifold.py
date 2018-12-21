@@ -251,15 +251,10 @@ def matingPool(generation, selectResults):
 def no_overlapping(creature_of_interest, pool):
 
     for creature in pool:
-        if distance(creature_of_interest, creature) <= 10:
-            creature_of_interest = make_circles(1,scale=scale)[0]
-        else:
-            pass
+        while distance(creature_of_interest, creature) <= 10:
+            creature_of_interest = make_circles(1, scale=scale)[0]
 
     return creature_of_interest
-
-
-
 
 # special editing space for child circles
 def CRISPR(genes, pool):
@@ -284,12 +279,10 @@ def CRISPR(genes, pool):
         lessY = Y - R
 
     eG = X, Y, R, l
-    print len(pool)
 
     child = circCreature(eG[0], eG[1], eG[2], eG[3])
     # stop over lapping
-    #child = no_overlapping(child, pool)
-
+    # child = no_overlapping(child, pool)
 
     return child
 
@@ -298,13 +291,17 @@ def breed(parent1, parent2, dX, dY, pool):
     # just being explicit
     aveGenes = [(parent1[0]+parent2[0])/2,(parent1[1]+parent2[1])/2]
 
-    genes = aveGenes ## this needs to be something meaningful...
+    genes = aveGenes ## this needs to be something more meaningful...
 
     # keep circles from going off the page..
     editedGenes = CRISPR((dX, dY, genes), pool) ################################################dRdRdR
 
     eG = editedGenes
     child = circCreature(eG[0], eG[1], eG[2], eG[3])
+
+    if ([True for creature in pool if (creature.X,creature.Y) == (child.X,child.Y)]==[True]):
+        print "OVERLAP!: ", child
+        no_overlapping(child,pool)
 
     return child
 

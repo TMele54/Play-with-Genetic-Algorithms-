@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7109e30-32f3-490d-a8b3-358226210f1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/amorphous/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amorphous/ameba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amorphous/manifold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amorphous/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom_libs/Shapely-1.6.4.post1-cp27-cp27m-win_amd64.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/ga_functions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geometric/circles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motion/swarm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geometric/rectangles.py" beforeDir="false" afterPath="$PROJECT_DIR$/geometric/rectangles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xtr/chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/xtr/monitor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amorphous/manifold.py" beforeDir="false" afterPath="$PROJECT_DIR$/amorphous/manifold.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,10 +33,10 @@
     <session id="-862861893">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="4" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.16" value="1" />
@@ -58,21 +46,21 @@
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="39" />
           <entry key="ga_functions" value="2" />
-          <entry key="py" value="23614" />
+          <entry key="py" value="23804" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="52" />
-          <entry key="Python" value="23616" />
+          <entry key="Python" value="23806" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -99,72 +87,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/amorphous/manifold.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="956">
-              <caret line="442" column="19" selection-start-line="442" selection-start-column="19" selection-end-line="442" selection-end-column="19" />
+            <state relative-caret-position="134">
+              <caret line="302" column="33" selection-start-line="302" selection-start-column="33" selection-end-line="302" selection-end-column="33" />
               <folding>
-                <element signature="e#885#5167#0" />
-                <element signature="e#910#4782#0" />
-                <element signature="e#1117#1339#0" />
-                <element signature="e#1377#2381#0" />
-                <element signature="e#1443#1928#0" />
-                <element signature="e#1996#2381#0" />
-                <element signature="e#2030#2141#0" />
-                <element signature="e#2193#2320#0" />
-                <element signature="e#2431#2727#0" />
-                <element signature="e#2506#2628#0" />
-                <element signature="e#2765#2875#0" />
-                <element signature="e#2938#3907#0" />
-                <element signature="e#2938#3242#1" />
-                <element signature="e#3989#4431#0" />
-                <element signature="e#4647#4662#0" />
-                <element signature="e#4818#4910#0" />
-                <element signature="e#4954#5071#0" />
-                <element signature="e#5219#5338#0" />
-                <element signature="e#5398#5511#0" />
-                <element signature="e#5568#6203#0" />
-                <element signature="e#5625#6180#0" />
-                <element signature="e#5845#5887#0" />
-                <element signature="e#5927#5969#0" />
-                <element signature="e#6007#6048#0" />
-                <element signature="e#6086#6127#0" />
-                <element signature="e#6300#6480#0" />
-                <element signature="e#6582#6629#0" />
-                <element signature="e#6736#7125#0" />
-                <element signature="e#7192#7319#0" />
-                <element signature="e#7393#7698#0" />
-                <element signature="e#7556#7642#0" />
-                <element signature="e#7801#8438#0" />
-                <element signature="e#8223#8409#0" />
-                <element signature="e#8306#8409#0" />
-                <element signature="e#8347#8409#0" />
-                <element signature="e#8534#8722#0" />
-                <element signature="e#8642#8705#0" />
-                <element signature="e#8810#9020#0" />
-                <element signature="e#8840#8987#0" />
-                <element signature="e#9096#9699#0" />
-                <element signature="e#9278#9316#0" />
-                <element signature="e#9348#9386#0" />
-                <element signature="e#9416#9453#0" />
-                <element signature="e#9483#9520#0" />
-                <element signature="e#9620#9639#0" />
-                <element signature="e#9775#10173#0" />
-                <element signature="e#10258#10719#0" />
-                <element signature="e#10600#10698#0" />
-                <element signature="e#10829#10949#0" />
-                <element signature="e#11029#11238#0" />
-                <element signature="e#11101#11215#0" />
-                <element signature="e#11326#12336#0" />
-                <element signature="e#11601#11804#0" />
-                <element signature="e#11868#12161#0" />
-                <element signature="e#12022#12078#0" />
+                <element signature="e#9065#9649#0" />
                 <element signature="e#12105#12161#0" />
-                <element signature="e#12392#12658#0" />
-                <element signature="e#12445#12550#0" />
-                <element signature="e#12765#13446#0" />
-                <element signature="e#13585#14561#0" />
-                <element signature="e#13850#14460#0" />
-                <element signature="e#14342#14385#0" />
-                <marker date="1545407937652" expanded="false" signature="8803:9022" ph="..." />
               </folding>
             </state>
           </provider>
@@ -181,7 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>circCrea</find>
       <find>circcre</find>
       <find>scale</find>
       <find>initialPopulati</find>
@@ -211,6 +137,7 @@
       <find>breed</find>
       <find>make_circles</find>
       <find>of_inte</find>
+      <find>no_overlap</find>
     </findStrings>
     <replaceStrings>
       <replace>b</replace>
@@ -276,7 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,6 +219,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,9 +378,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16013746" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16219932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -464,7 +390,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7580756" visible="true" weight="0.36579573" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7580756" visible="true" weight="0.34679335" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2419244" side_tool="true" weight="0.739905" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.63573885" weight="0.32897863" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -585,9 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#390#1" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,72 +526,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/amorphous/manifold.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="956">
-          <caret line="442" column="19" selection-start-line="442" selection-start-column="19" selection-end-line="442" selection-end-column="19" />
+        <state relative-caret-position="134">
+          <caret line="302" column="33" selection-start-line="302" selection-start-column="33" selection-end-line="302" selection-end-column="33" />
           <folding>
-            <element signature="e#885#5167#0" />
-            <element signature="e#910#4782#0" />
-            <element signature="e#1117#1339#0" />
-            <element signature="e#1377#2381#0" />
-            <element signature="e#1443#1928#0" />
-            <element signature="e#1996#2381#0" />
-            <element signature="e#2030#2141#0" />
-            <element signature="e#2193#2320#0" />
-            <element signature="e#2431#2727#0" />
-            <element signature="e#2506#2628#0" />
-            <element signature="e#2765#2875#0" />
-            <element signature="e#2938#3907#0" />
-            <element signature="e#2938#3242#1" />
-            <element signature="e#3989#4431#0" />
-            <element signature="e#4647#4662#0" />
-            <element signature="e#4818#4910#0" />
-            <element signature="e#4954#5071#0" />
-            <element signature="e#5219#5338#0" />
-            <element signature="e#5398#5511#0" />
-            <element signature="e#5568#6203#0" />
-            <element signature="e#5625#6180#0" />
-            <element signature="e#5845#5887#0" />
-            <element signature="e#5927#5969#0" />
-            <element signature="e#6007#6048#0" />
-            <element signature="e#6086#6127#0" />
-            <element signature="e#6300#6480#0" />
-            <element signature="e#6582#6629#0" />
-            <element signature="e#6736#7125#0" />
-            <element signature="e#7192#7319#0" />
-            <element signature="e#7393#7698#0" />
-            <element signature="e#7556#7642#0" />
-            <element signature="e#7801#8438#0" />
-            <element signature="e#8223#8409#0" />
-            <element signature="e#8306#8409#0" />
-            <element signature="e#8347#8409#0" />
-            <element signature="e#8534#8722#0" />
-            <element signature="e#8642#8705#0" />
-            <element signature="e#8810#9020#0" />
-            <element signature="e#8840#8987#0" />
-            <element signature="e#9096#9699#0" />
-            <element signature="e#9278#9316#0" />
-            <element signature="e#9348#9386#0" />
-            <element signature="e#9416#9453#0" />
-            <element signature="e#9483#9520#0" />
-            <element signature="e#9620#9639#0" />
-            <element signature="e#9775#10173#0" />
-            <element signature="e#10258#10719#0" />
-            <element signature="e#10600#10698#0" />
-            <element signature="e#10829#10949#0" />
-            <element signature="e#11029#11238#0" />
-            <element signature="e#11101#11215#0" />
-            <element signature="e#11326#12336#0" />
-            <element signature="e#11601#11804#0" />
-            <element signature="e#11868#12161#0" />
-            <element signature="e#12022#12078#0" />
+            <element signature="e#9065#9649#0" />
             <element signature="e#12105#12161#0" />
-            <element signature="e#12392#12658#0" />
-            <element signature="e#12445#12550#0" />
-            <element signature="e#12765#13446#0" />
-            <element signature="e#13585#14561#0" />
-            <element signature="e#13850#14460#0" />
-            <element signature="e#14342#14385#0" />
-            <marker date="1545407937652" expanded="false" signature="8803:9022" ph="..." />
           </folding>
         </state>
       </provider>
